@@ -8,16 +8,16 @@ Recently what has fascinated me is Physical AI, AI alignment, sim-to-real roboti
 
 ## Robotics and robot learning
 
-As a Robotics Simulation Engineer at Labelbox (June-Sept 2026), I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
+As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
 
-- [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at Y Combinator's inaugural YCML conference in San Francisco, July 2026. 
+- [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at **_Y Combinator's inaugural YCML conference in San Francisco, July 2026._**
 - [Project Ladder](https://github.com/Ice-Citron/Project-Ladder), I contributed to robot learning for cable insertion with a UR5e arm. 
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
-- Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. Please understand I cannot publicise my codebase for this.
+- Previously, I worked on an autonomous medical aid delivery robot for 9 months, **_sponsored by Italian defence firm Leonardo._** Please understand I cannot publicise my codebase for this.
 
 ## AI safety and evaluation
 
-My interests include evaluation validity, agent behaviour and mechanistic interpretability. I have also participated in a Technical AI Safety programme, under the guidance of an ex-Anthropic mentor, leading discussions on constitutional classifiers and J-space research. I have a couple of active research projects I am working on regarding cross state contamination, inspired by some of my evals work in MuJoCo!
+My interests include evaluation validity, agent behaviour and mechanistic interpretability. I have also participated in a Technical AI Safety programme, under the mentorship of an **_ex-Anthropic researcher_**, leading discussions on constitutional classifiers and J-space research. I have a couple of active research projects I am working on regarding cross state contamination, inspired by some of my evals work in MuJoCo!
 
 - [Task Gaming](https://github.com/in-a-quantum-world/task-gaming) (please be patient while I work on this!)
 
@@ -32,7 +32,7 @@ Repos will be made public soon :)
 
 ## Exploring Ideas
 
-- [Project Vortex - increasing drone range using wind fields](https://github.com/in-a-quantum-world/project-vortex-prototype) It was the idea here that was most notable - using wind field estimation and Computational Fluid Dynamics to increase range of drones!!
+- [Project Vortex - increasing drone range using wind fields](https://github.com/in-a-quantum-world/project-vortex-prototype) It was the idea here that was most notable - using wind field estimation and Computational Fluid Dynamics to increase range of drones!! I even discussed my ideas and research with **_European startup accelerator_** for under 25s, Project Europe.
 - [Computational Optics](https://github.com/in-a-quantum-world/BPhO-Comp-Challenge-optics-physics) First time using MATLAB for British Physics Olympiad's Computational Challenge, was quite a ride!
 - [Chess Engine](https://github.com/in-a-quantum-world/Chess-Engine) Project from high school where I created a chess engine and game playing interface from scratch, more focused on computational methodology as opposed to interface! My first encounter with MCTS :)
 
