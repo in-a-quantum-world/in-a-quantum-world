@@ -15,7 +15,7 @@ As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build si
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
 - Previously, I worked on an autonomous medical aid delivery robot for 9 months, **_sponsored by Italian defence firm Leonardo._** Please understand I cannot publicise my codebase for this.
 
-## AI safety and evaluation
+## AI Alignment, Mechanistic Interpretability
 
 My interests include evaluation validity, agent behaviour and mechanistic interpretability. I have also participated in a Technical AI Safety programme, under the mentorship of an **_ex-Anthropic researcher_**, leading discussions on constitutional classifiers and J-space research. I have a couple of active research projects I am working on regarding cross state contamination, inspired by some of my evals work in MuJoCo!
 
