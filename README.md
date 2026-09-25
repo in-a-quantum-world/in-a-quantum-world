@@ -4,15 +4,16 @@ I love Mathematics and Computer Science (and Physics) - in particular, the inter
 
 Recently what has fascinated me is Physical AI, AI alignment, sim-to-real robotics and PDE control in robotics. Simultaneously, I love pretty much anything to do with Maths so I am also exploring computational fluid dynamics, specifically simulating wind fields for a drone research project, as well as Algorithmic Trading and even PDE control in robotics.
 
-Here is what I am fascinated by and what I have been working on!
+
 
 ## Robotics and robot learning
 
-As a Robotics Simulation Engineer at Labelbox, I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
+As a Robotics Simulation Engineer at Labelbox (June-Sept 2026), I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
 
-- [Project Automaton](https://github.com/rangers-intrinsic/aic-rangers), I contribute to robot learning for cable insertion with a UR5e arm. My work includes impedance control, parameter optimisation and reward design using RGB cameras and force-torque feedback.
+- [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at Y Combinator's inaugural YCML conference in San Francisco, July 2026. 
+- [Project Automaton](https://github.com/rangers-intrinsic/aic-rangers), I contribute to robot learning for cable insertion with a UR5e arm. 
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
-- Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. I integrated computer vision, ultrasonic sensing, motor control and GPS navigation and won a Project of the Year award. Please understand I cannot publicise my codebase for this.
+- Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. Please understand I cannot publicise my codebase for this.
 
 ## AI safety and evaluation
 
@@ -22,16 +23,19 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 
 Repos will be made public soon :)
 
+
 ## Algorithmic trading
 
-- [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal): 1st of 18,000+ teams in the first manual trading round, competing against 30,000+ participants internationally.
-- [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Top 10 and the only first-year. Market making, directional signals and limit order book feature engineering, with MARL explored as a later extension.
-- **Optiver Imperial Trading Academy:** consistently ranked 2nd of 60+ teams across the programme; 5th in the finals. Can't reveal codebase for this :/
+- [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal)
+- [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering.
+- 
 
 ## Exploring Ideas
 
+- [Project Vortex - increasing drone range using wind fields](https://github.com/in-a-quantum-world/project-vortex-prototype) It was the idea here that was most notable - using wind field estimation and Computational Fluid Dynamics to increase range of drones!!
 - [Computational Optics](https://github.com/in-a-quantum-world/BPhO-Comp-Challenge-optics-physics) First time using MATLAB for British Physics Olympiad's Computational Challenge, was quite a ride!
-- [Chess Engine](https://github.com/in-a-quantum-world/Chess-Engine) Project from high school where I created a chess engine and game playing interface from scratch, alongisde a hefty write-up. My project was a lot more focused on computational methodology as opposed to interface! My first encounter with MCTS :)
+- [Chess Engine](https://github.com/in-a-quantum-world/Chess-Engine) Project from high school where I created a chess engine and game playing interface from scratch, more focused on computational methodology as opposed to interface! My first encounter with MCTS :)
+
 
 ## Principled Programming
 
@@ -39,12 +43,15 @@ Repos will be made public soon :)
 - [Advent of FPGA](https://github.com/in-a-quantum-world/Advent-of-FPGA) Originally tried to compete in Advent of FPGA but this ended up being more about me learning Hardcaml and FPGA engineering!
 - [Stanford CS161](https://github.com/in-a-quantum-world/Stanford-CS161) Stanford's flagship module on Algorithms (4 sections, quite large), except I am doing it in Rust to keep my Rust skills not-so-rusty.
 - [LeetCode in C++](https://github.com/in-a-quantum-world/leetcode-ultimate) LeetCode, need I say more? C++, Haskell, Rust, and Python (for when I feel a little lazy).
+  
 
 ## Personal 
 
 - [Project Liberty](https://github.com/in-a-quantum-world/Project-Liberty) Inspiration taken from one of my friends, I am creating a repo with all of my work and revision from learning Haskell and C, as well as Leetcode practice to fully understand Data Structures and Algorithms.
 - [Interesting materials](https://github.com/in-a-quantum-world/papers-and-learnings) This repo kind of feels like a second brain to me - inspired from when my Google Bookmarks list was too long and disorganised!
-- 
+
+
+
 ## Technical tools
 
 | Area | Tools |
