@@ -1,4 +1,4 @@
-# Rucha
+# Rucha Agashe 
 
 I love Mathematics and Computer Science (and Physics) - in particular, the intersection of any two (or all three) of these subjects. I am, constantly, pursuing too many interests all at once, however I am always busy with exploring my ideas and curiosities.
 
@@ -11,7 +11,7 @@ Recently what has fascinated me is Physical AI, AI alignment, sim-to-real roboti
 As a Robotics Simulation Engineer at Labelbox (June-Sept 2026), I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
 
 - [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at Y Combinator's inaugural YCML conference in San Francisco, July 2026. 
-- [Project Automaton](https://github.com/rangers-intrinsic/aic-rangers), I contribute to robot learning for cable insertion with a UR5e arm. 
+- [Project Ladder]([https://github.com/rangers-intrinsic/aic-rangers](https://github.com/Ice-Citron/Project-Ladder), I contributed to robot learning for cable insertion with a UR5e arm. 
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
 - Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. Please understand I cannot publicise my codebase for this.
 
