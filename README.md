@@ -1,4 +1,4 @@
-# in-a-quantum-world
+# Rucha
 
 I love Mathematics and Computer Science (and Physics) - in particular, the intersection of any two (or all three) of these subjects. I am, constantly, pursuing too many interests all at once, however I am always busy with exploring my ideas and curiosities.
 
@@ -12,7 +12,7 @@ As a Robotics Simulation Engineer at Labelbox, I build simulation environments a
 
 - [Project Automaton](https://github.com/rangers-intrinsic/aic-rangers), I contribute to robot learning for cable insertion with a UR5e arm. My work includes impedance control, parameter optimisation and reward design using RGB cameras and force-torque feedback.
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
-- Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. I integrated computer vision, ultrasonic sensing, motor control and GPS navigation and won a Project of the Year award.
+- Previously, I worked on an autonomous medical aid delivery robot for 9 months, sponsored by Italian defence firm Leonardo. I integrated computer vision, ultrasonic sensing, motor control and GPS navigation and won a Project of the Year award. Please understand I cannot publicise my codebase for this.
 
 ## AI safety and evaluation
 
