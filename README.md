@@ -65,7 +65,7 @@ Repos will be made public soon :)
 
 ## Links
 
-- [Portfolio](https://in-a-quantum-world.github.io)
+- [Portfolio] Coming soon!
 - [LinkedIn](https://www.linkedin.com/in/rucha-agashe)
 - [Email](mailto:ruchaagashe212@gmail.com)
 
