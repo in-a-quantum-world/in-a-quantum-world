@@ -60,14 +60,14 @@ Repos will be made public soon :)
 | Programming | Python, C/C++, MATLAB, Rust, Haskell |
 | Machine learning | PyTorch, TensorFlow, Scikit-learn, NumPy/SciPy, OpenCV |
 | Robotics | MuJoCo, Isaac Sim, Isaac Lab, Gazebo, ROS |
-| Quantum computing | Qiskit, PennyLane, Cirq, IBM Quantum |
+| Quantum Computing | Qiskit, PennyLane, Cirq, IBM Quantum |
 | Development | Git, Linux, Docker, AWS, Google Cloud |
 
 
 ## Links
 
 - [Portfolio] Coming soon!
-- [LinkedIn](https://www.linkedin.com/in/rucha-agashe)
+- [LinkedIn](https://www.linkedin.com/in/rucha-agashe-687888338/)
 - [Email](mailto:ruchaagashe212@gmail.com)
 
 ## Extra if you are interested!
