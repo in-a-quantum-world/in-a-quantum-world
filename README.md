@@ -20,6 +20,7 @@ As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build si
 My interests include evaluation validity, agent behaviour and mechanistic interpretability. I have also participated in a Technical AI Safety programme, under the mentorship of an **_ex-Anthropic researcher_**, leading discussions on constitutional classifiers and J-space research. I have a couple of active research projects I am working on regarding cross state contamination, inspired by some of my evals work in MuJoCo!
 
 - [Task Gaming](https://github.com/in-a-quantum-world/task-gaming) (please be patient while I work on this!)
+- [Non Independent Agent Attempts for a Production Harness](https://github.com/in-a-quantum-world/non-independent-agent-attempts/settings) I was inspired to pursue this project after using Fable 5 to create non deterministic controllers for MuJoCo environments, after I had crafted the oracle and reference solution/controller myself, I found that agent attempts would draw from the work of previous agents stored in completely different directories. 
 - I am currently enrolled on a Technical AI Safety Project, under a Senior Software Engineer at UK's AI Safety Institute (AISI). More on this later but for now it is a project under stealth :)
 
 Repos will be made public soon :)
