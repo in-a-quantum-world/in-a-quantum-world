@@ -31,7 +31,15 @@ Repos will be made public soon :)
 - [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal)
 - [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering.
   
+## Hardware Projects
 
+I think it is increasingly important that actual systems architecture is understood in the agentic AI era. These few projects are a testament to my understanding of GPUs, CPUs and classic RISC V architecture. 
+
+- [Mini GPU](https://github.com/in-a-quantum-world/mini-gpu): Studying SIMT execution and the architecture validation.
+- [RISC V Emulator](): In System Verilog. Taken from Imperial's Department of Electrical and Electronic Engineering, first year coursework. 
+- [ARM11 CPU Emulator](): Created entirely in C. Coursework from Imperial Year 1 summer term. 
+
+  
 ## Exploring Ideas
 
 - [Project Vortex - increasing drone range using wind fields](https://github.com/in-a-quantum-world/project-vortex-prototype) It was the idea here that was most notable - using wind field estimation and Computational Fluid Dynamics to increase range of drones!! I even discussed my ideas and research with **_European startup accelerator_** for under 25s, Project Europe.
