@@ -1,4 +1,9 @@
-# Rucha Agashe 
+#⚡️🌌 🌃 Rucha Agashe 🌉 💥🌟
+
+## ✧ ✶ ✯ _Ad Aspera, Ad Astra_ ✯ ✶ ✧ 
+
+## _There is No Ignorabimus_ 
+--David Hilbert
 
 I love Mathematics and Computer Science (and Physics) - in particular, the intersection of any two (or all three) of these subjects. I am, constantly, pursuing too many interests all at once, however I am always busy with exploring my ideas and curiosities.
 
