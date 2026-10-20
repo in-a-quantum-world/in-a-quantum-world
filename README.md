@@ -83,13 +83,13 @@ I think it is increasingly important that actual systems architecture is underst
 
 ## Links
 
-- [Portfolio] Coming soon!
+- [Portfolio](https://there-is-no-ignorabimus-161803.netlify.app/)
 - [LinkedIn](https://www.linkedin.com/in/rucha-agashe-687888338/)
 - [Email](mailto:ruchaagashe212@gmail.com)
 
 ## Extra if you are interested!
 
-- [Google Scholar (updates coming soon!)](https://scholar.google.co.uk/citations?user=5yC_QvYAAAAJ&hl=en) 
+- [Google Scholar (updates coming very soon!)](https://scholar.google.co.uk/citations?user=5yC_QvYAAAAJ&hl=en) 
 - [Substack (updates coming soon!)](https://substack.com/@ruchaagashe144)
 - [YouTube channel (updates coming soon!)](https://www.youtube.com/channel/UCMKngSNmte0edg_aQamMF2A)
 - [YouTube playlists](https://www.youtube.com/@inexplicable_entity/playlists)
