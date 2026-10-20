@@ -5,7 +5,7 @@
 
 I love Mathematics and Computer Science (and Physics) - in particular, the intersection of any two (or all three) of these subjects. I am, constantly, pursuing too many interests all at once, however I am always busy with exploring my ideas and curiosities.
 
-Recently what has fascinated me is Physical AI, AI alignment, sim-to-real robotics and PDE control in robotics. Simultaneously, I love pretty much anything to do with Maths so I am also exploring computational fluid dynamics, specifically simulating wind fields for a drone research project, as well as Algorithmic Trading and even PDE control in robotics.
+Recently what has fascinated me is Physical AI and sim-to-real, AI alignment and Mechanistic Interpretability, and spacecraft (anything with a decent amount of Mathematics!) I've explored computational fluid dynamics, specifically simulating wind fields for a drone research project, as well as the (slightly inevitable) Algorithmic Trading, PDE control in robotics, rocket engine design... the list just goes on!
 
 
 
@@ -28,19 +28,24 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 
 Repos will be made public soon :)
 
+## Aerospace and rocket engines!
 
-## Algorithmic trading
+- [Rocket Engine Design (Project Tycho)]: At Imperial College London, I am part of *_Project Tycho_*, a student-run rocket engine design group. While I cannot share the technical details of our rocket engine, what I can share is a repo with my learnings and implementations.
+- [Solar Sail (Project Svarog)]: I am also part of *Project Svarog* specifically on the orbitals and control team. While I cannot share what we are currently working on as openly, I am able to share one of my onboarding projects, which is the solar sail project (CubeSat). 
 
-- [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal)
-- [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering.
+## Algorithmic Trading
+
+- [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal) - 1st out of 18,000+ teams in the manual trading round. The rest of the rounds were... exploratory, to say the least. 
+- [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering. This was the first time I explored ridge regression which was cool.
+  
   
 ## Hardware Projects
 
 I think it is increasingly important that actual systems architecture is understood in the agentic AI era. These few projects are a testament to my understanding of GPUs, CPUs and classic RISC V architecture. 
 
 - [Mini GPU](https://github.com/in-a-quantum-world/mini-gpu): Studying SIMT execution and the architecture validation.
-- [RISC V Emulator](): In System Verilog. Taken from Imperial's Department of Electrical and Electronic Engineering, first year coursework. 
-- [ARM11 CPU Emulator](): Created entirely in C. Coursework from Imperial Year 1 summer term. 
+- [RISC V Emulator](): In System Verilog. Taken from Imperial's Department of Electrical and Electronic Engineering first year coursework.
+- [ARM11 CPU Emulator](): Entirely in C. Coming soon!
 
   
 ## Exploring Ideas
