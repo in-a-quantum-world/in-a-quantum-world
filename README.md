@@ -26,7 +26,7 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 - [Non Independent Agent Attempts for a Production Harness](https://github.com/in-a-quantum-world/non-independent-agent-attempts/settings) I was inspired to pursue this project after using Fable 5 to create non deterministic controllers for MuJoCo environments, after I had crafted the oracle and reference solution/controller myself, I found that agent attempts would draw from the work of previous agents stored in completely different directories. 
 - I am currently enrolled on a Technical AI Safety Project, under a Senior Software Engineer at UK's AI Safety Institute (AISI). More on this later but for now it is a project under stealth :)
 
-Repos will be made public soon :)
+Repos will be made public soon 
 
 ## Aerospace and rocket engines!
 
@@ -66,7 +66,7 @@ I think it is increasingly important that actual systems architecture is underst
 ## Personal 
 
 - [Project Liberty](https://github.com/in-a-quantum-world/Project-Liberty) Inspiration taken from one of my friends, I am creating a repo with all of my work and revision from learning Haskell and C, as well as Leetcode practice to fully understand Data Structures and Algorithms.
-- [Interesting materials](https://github.com/in-a-quantum-world/papers-and-learnings) This repo kind of feels like a second brain to me - inspired from when my Google Bookmarks list was too long and disorganised!
+- [Interesting materials](https://github.com/in-a-quantum-world/papers-and-learnings) This repo kind of feels like a second brain to me - inspired from when my Google Bookmarks list was too long and disorganised! (To be honest it is a little bit outdated so for my most recent readings, 
 
 
 
