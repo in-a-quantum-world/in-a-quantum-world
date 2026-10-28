@@ -25,7 +25,8 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 
 - [Task Gaming](https://github.com/in-a-quantum-world/task-gaming) (please be patient while I work on this!)
 - [Non Independent Agent Attempts for a Production Harness](https://github.com/in-a-quantum-world/non-independent-agent-attempts/settings) I was inspired to pursue this project after using Fable 5 to create non deterministic controllers for MuJoCo environments, after I had crafted the oracle and reference solution/controller myself, I found that agent attempts would draw from the work of previous agents stored in completely different directories.
-- [Using the J-lens to detect model scehming](https://github.com/in-a-quantum-world/anthropic-jspace-scheming) I have tested a variety of models including DeepSeek V4 Flash, Qwen 27B and Gemma 12B and 4B, currently testing sandbagging in the J-space as a pre requisite for scheming. 
+- [Using the J-lens to detect model scehming](https://github.com/in-a-quantum-world/anthropic-jspace-scheming) I have tested a variety of models including DeepSeek V4 Flash, Qwen 27B and Gemma 12B and 4B, currently testing sandbagging in the J-space as a pre requisite for scheming.
+- [Net Influence of Collusion](https://github.com/in-a-quantum-world/collusion-net-influence) As part of Apart AI Collusion Project Sprint (Oct 23-25 2026), I conducted a stress test of pairwise net influence, an action-log collusion detector, on 7,400 scripted games and two runs of GPT-4.1-mini agents. My project shows when the wrong public state, an uncalibrated threshold, or a "coalition" of three makes it accuse the innocent or miss the guilty.
 - I am currently enrolled on a Technical AI Safety Project, under a Senior Software Engineer at UK's AI Safety Institute (AISI). More on this later but for now it is a project under stealth :)
 
 Repos will be made public soon 
