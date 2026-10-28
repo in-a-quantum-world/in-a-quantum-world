@@ -69,7 +69,7 @@ I think it is increasingly important that actual systems architecture is underst
 ## Personal 
 
 - [Project Liberty](https://github.com/in-a-quantum-world/Project-Liberty) Inspiration taken from one of my friends, I am creating a repo with all of my work and revision from learning Haskell and C, as well as Leetcode practice to fully understand Data Structures and Algorithms.
-- [Interesting materials](https://github.com/in-a-quantum-world/papers-and-learnings) This repo kind of feels like a second brain to me - inspired from when my Google Bookmarks list was too long and disorganised! (To be honest it is a little bit outdated so for my most recent readings, 
+- [Interesting materials](https://github.com/in-a-quantum-world/papers-and-learnings) This repo kind of feels like a second brain to me - inspired from when my Google Bookmarks list was too long and disorganised! (To be honest it is a little bit outdated so for my most recent readings, since there is so much to keep on top of... daily...)
 
 
 
