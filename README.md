@@ -86,7 +86,7 @@ I think it is increasingly important that actual systems architecture is underst
 
 ## Links
 
-- [Portfolio](https://there-is-no-ignorabimus-161803.netlify.app/)
+- [Portfolio]()
 - [LinkedIn](https://www.linkedin.com/in/rucha-agashe-687888338/)
 - [Email](mailto:ruchaagashe212@gmail.com)
 
