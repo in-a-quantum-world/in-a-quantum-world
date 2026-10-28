@@ -5,7 +5,7 @@
 
 I love Mathematics and Computer Science (and Physics) - in particular, the intersection of any two (or all three) of these subjects. I am, constantly, pursuing too many interests all at once, however I am always busy with exploring my ideas and curiosities.
 
-Recently what has fascinated me is Physical AI and sim-to-real, AI alignment and Mechanistic Interpretability, and spacecraft (anything with a decent amount of Mathematics!) I've explored computational fluid dynamics, specifically simulating wind fields for a drone research project, as well as the (slightly inevitable) Algorithmic Trading, PDE control in robotics, rocket engine design... the list just goes on!
+Recently what has fascinated me is Physical AI and sim-to-real, AI alignment and Mechanistic Interpretability, and spacecraft (anything with a decent amount of Mathematics!) I've explored computational fluid dynamics, specifically simulating wind fields for a drone research project, as well as the Algorithmic Trading (as I have been exposed to it a lot lately!), PDE control in robotics, rocket engine design... the list just goes on!
 
 
 
@@ -14,6 +14,7 @@ Recently what has fascinated me is Physical AI and sim-to-real, AI alignment and
 As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
 
 - [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at **_Y Combinator's inaugural YCML conference in San Francisco, July 2026._**
+- [Gap Hunter](https://github.com/Ice-Citron/gaphunter) As the goal of any robotics firm is to deploy a system with four-nines (99.99%) reliability as cheaply as possible, we proposed Gap Hunter. Users upload a policy for a defined task, and GapHunter runs coverage-driven tests against it in simulation (MuJoCo and ManiSkill for now), sampling the full deployment workspace rather than the range the policy was written for, and returns the policy's operating envelope: where it works, where it degrades, where it fails, and why, with a transcript for every trial and clips of sample failures. It is the test that tells you whether a policy is actually four-nines, and whether it is acceptable for the real world, before a customer finds out.
 - [Project Ladder](https://github.com/Ice-Citron/Project-Ladder), I contributed to robot learning for cable insertion with a UR5e arm. 
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
 - Previously, I worked on an autonomous medical aid delivery robot for 9 months, **_sponsored by Italian defence firm Leonardo._** Please understand I cannot publicise my codebase for this.
@@ -23,7 +24,8 @@ As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build si
 My interests include evaluation validity, agent behaviour and mechanistic interpretability. I have also participated in a Technical AI Safety programme, under the mentorship of an **_ex-Anthropic researcher_**, leading discussions on constitutional classifiers and J-space research. I have a couple of active research projects I am working on regarding cross state contamination, inspired by some of my evals work in MuJoCo!
 
 - [Task Gaming](https://github.com/in-a-quantum-world/task-gaming) (please be patient while I work on this!)
-- [Non Independent Agent Attempts for a Production Harness](https://github.com/in-a-quantum-world/non-independent-agent-attempts/settings) I was inspired to pursue this project after using Fable 5 to create non deterministic controllers for MuJoCo environments, after I had crafted the oracle and reference solution/controller myself, I found that agent attempts would draw from the work of previous agents stored in completely different directories. 
+- [Non Independent Agent Attempts for a Production Harness](https://github.com/in-a-quantum-world/non-independent-agent-attempts/settings) I was inspired to pursue this project after using Fable 5 to create non deterministic controllers for MuJoCo environments, after I had crafted the oracle and reference solution/controller myself, I found that agent attempts would draw from the work of previous agents stored in completely different directories.
+- [Using the J-lens to detect model scehming](https://github.com/in-a-quantum-world/anthropic-jspace-scheming) I have tested a variety of models including DeepSeek V4 Flash, Qwen 27B and Gemma 12B and 4B, currently testing sandbagging in the J-space as a pre requisite for scheming. 
 - I am currently enrolled on a Technical AI Safety Project, under a Senior Software Engineer at UK's AI Safety Institute (AISI). More on this later but for now it is a project under stealth :)
 
 Repos will be made public soon 
