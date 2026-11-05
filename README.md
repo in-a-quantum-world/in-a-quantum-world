@@ -13,7 +13,7 @@ Recently what has fascinated me is Physical AI and sim-to-real, AI alignment and
 
 As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build simulation environments and robot models using MuJoCo, NVIDIA Isaac Sim and Gazebo, working with kinematics, dynamics and contact behaviour. 
 
-- [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at **_Y Combinator's inaugural YCML conference in San Francisco, July 2026._**
+- [Y Combinator Research Symposium (YCML)] Sim-to-real robotics, triggered from the robotics worlds' GPT moment, presented at **_Y Combinator's inaugural YCML conference in San Francisco, July 2026._**
 - [Gap Hunter](https://github.com/Ice-Citron/gaphunter) As the goal of any robotics firm is to deploy a system with four-nines (99.99%) reliability as cheaply as possible, we proposed Gap Hunter. Users upload a policy for a defined task, and GapHunter runs coverage-driven tests against it in simulation (MuJoCo and ManiSkill for now), sampling the full deployment workspace rather than the range the policy was written for, and returns the policy's operating envelope: where it works, where it degrades, where it fails, and why, with a transcript for every trial and clips of sample failures. It is the test that tells you whether a policy is actually four-nines, and whether it is acceptable for the real world, before a customer finds out.
 - [Matrix Lab](https://matrix-lab.io/) An extension of GapHunter based off of some really interesting research regarding model weights, and more! Exciting things coming soon....
 - [Intrinsic AI for Industry Challenge](https://github.com/Ice-Citron/Project-Automaton__Quantarune), I contributed to robot learning for cable insertion with a UR5e arm. 
@@ -30,11 +30,11 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 - [Net Influence of Collusion](https://github.com/in-a-quantum-world/collusion-net-influence) As part of Apart AI Collusion Project Sprint (Oct 23-25 2026), I conducted a stress test of pairwise net influence, an action-log collusion detector, on 7,400 scripted games and two runs of GPT-4.1-mini agents. My project shows when the wrong public state, an uncalibrated threshold, or a "coalition" of three makes it accuse the innocent or miss the guilty.
 - I am currently enrolled on a Technical AI Safety Project, under a Senior Software Engineer at UK's AI Safety Institute (AISI). More on this later but for now it is a project under stealth :)
 
-Repos will be made public soon 
-
 
 
 ## Algorithmic Trading
+
+Being a student at Imperial means it is impossible not to be exposed to this side. Nevertheless, I believe everything is worth exploring (at a high level). After all, how would you otherwise choose?
 
 - [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal) - 1st out of 18,000+ teams in the manual trading round. The rest of the rounds were... exploratory, to say the least. 
 - [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering. This was the first time I explored ridge regression which was cool.
@@ -92,6 +92,6 @@ I think it is increasingly important that actual systems architecture is underst
 
 - [Google Scholar (updates coming very soon!)](https://scholar.google.co.uk/citations?user=5yC_QvYAAAAJ&hl=en) 
 - [Substack (updates coming soon!)](https://substack.com/@ruchaagashe144)
-- [YouTube channel (updates coming soon!)](https://www.youtube.com/channel/UCMKngSNmte0edg_aQamMF2A)
+- [YouTube channel](https://www.youtube.com/channel/UCMKngSNmte0edg_aQamMF2A)
 - [YouTube playlists](https://www.youtube.com/@inexplicable_entity/playlists)
 - [Personal Website/Blog] (coming soon!)
