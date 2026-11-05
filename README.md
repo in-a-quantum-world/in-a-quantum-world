@@ -31,10 +31,7 @@ My interests include evaluation validity, agent behaviour and mechanistic interp
 
 Repos will be made public soon 
 
-## Aerospace and rocket engines!
 
-- [Rocket Engine Design (Project Tycho)]: At Imperial College London, I was part of *_Project Tycho_*, a student-run rocket engine design group. While I cannot share the technical details of our rocket engine, what I can share is a repo with my learnings and implementations.
-- [Solar Sail (Project Svarog)]: I was also part of *Project Svarog* specifically on the orbitals and control team. While I cannot share what we are currently working on as openly, I am able to share one of my onboarding projects, which is the solar sail project 
 
 ## Algorithmic Trading
 
