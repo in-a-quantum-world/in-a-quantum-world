@@ -92,6 +92,6 @@ I think it is increasingly important that actual systems architecture is underst
 
 - [Google Scholar (updates coming very soon!)](https://scholar.google.co.uk/citations?user=5yC_QvYAAAAJ&hl=en) 
 - [Substack (updates coming soon!)](https://substack.com/@ruchaagashe144)
-- [YouTube channel](https://www.youtube.com/channel/UCMKngSNmte0edg_aQamMF2A)
+- [YouTube channel](https://www.youtube.com/@inexplicable_entity)
 - [YouTube playlists](https://www.youtube.com/@inexplicable_entity/playlists)
 - [Personal Website/Blog] (coming soon!)
