@@ -15,7 +15,8 @@ As a **_Robotics Simulation Engineer at Labelbox (June-Sept 2026)_**, I build si
 
 - [Y Combinator Research Symposium (YCML)] Sim-to-real robotics and GPT moment, presented at **_Y Combinator's inaugural YCML conference in San Francisco, July 2026._**
 - [Gap Hunter](https://github.com/Ice-Citron/gaphunter) As the goal of any robotics firm is to deploy a system with four-nines (99.99%) reliability as cheaply as possible, we proposed Gap Hunter. Users upload a policy for a defined task, and GapHunter runs coverage-driven tests against it in simulation (MuJoCo and ManiSkill for now), sampling the full deployment workspace rather than the range the policy was written for, and returns the policy's operating envelope: where it works, where it degrades, where it fails, and why, with a transcript for every trial and clips of sample failures. It is the test that tells you whether a policy is actually four-nines, and whether it is acceptable for the real world, before a customer finds out.
-- [Intrinsic AI for Industry Challenge](https://github.com/Ice-Citron/Project-Ladder), I contributed to robot learning for cable insertion with a UR5e arm. 
+- [Matrix Lab](https://matrix-lab.io/) An extension of GapHunter based off of some really interesting research regarding model weights, and more! Exciting things coming soon....
+- [Intrinsic AI for Industry Challenge](https://github.com/Ice-Citron/Project-Automaton__Quantarune), I contributed to robot learning for cable insertion with a UR5e arm. 
 - [Lunar Rover](https://github.com/in-a-quantum-world/LunarRover) Here I worked in a team to create a rover which can identify different rock types on Mars! 
 - Previously, I worked on an autonomous medical aid delivery robot for 9 months, **_sponsored by Italian defence firm Leonardo._** Please understand I cannot publicise my codebase for this.
 
