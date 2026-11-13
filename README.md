@@ -35,7 +35,7 @@ Being a student at Imperial means it is impossible not to be exposed to this sid
 
 - [IMC Prosperity 2026](https://github.com/in-a-quantum-world/imc-prosperity26-personal) - 1st out of 18,000+ teams in the manual trading round. The rest of the rounds were... exploratory, to say the least. 
 - [Imperial Algorithmic Trading Contest](https://github.com/in-a-quantum-world/Algorithmic-Trading-Contest): Market making, directional signals and limit order book feature engineering. This was the first time I explored ridge regression which was cool.
-- Notably, I was also selected for competitive spring programs at **Jane Street** (twice) and a few others. I learned about incident management and OCaml, and at other events did a lot of data analysis. 
+- Notably, I was also selected for _competitive spring programs_ at _**Jane Street**_ (twice) and a few others. I learned about incident management and OCaml, and at other events did a lot of data analysis. 
   
 
 ## Spacecraft and Flight!
